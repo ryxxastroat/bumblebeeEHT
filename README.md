@@ -1,5 +1,9 @@
 # bumblebeeEHT
-Example numerical solutions of spherical black holes in the bumblebee gravity model
+Example numerical solutions of spherical black holes in the bumblebee gravity model; please see
+R. Xu, D. Liang, and L. Shao, _Bumblebee black holes in light of Event Horizon Telescope_, arXiv: 2302.05671
+R. Xu, D. Liang, and L. Shao, _Static spherical vacuum solutions in the bumblebee gravity model_, Phys. Rev. D 107, 024011 (2023)
+for reference.
+
 
 **********These three DAT files are examples of the numerical solutions**********
 
