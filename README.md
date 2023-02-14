@@ -8,7 +8,6 @@ R. Xu, D. Liang, and L. Shao, _Static spherical vacuum solutions in the bumblebe
 for reference.
 
 
-**********These three DAT files are examples of the numerical solutions**********
 
 Units: Geometrized (G=c=1) and the radius of the horizon taken as the unit length
 
