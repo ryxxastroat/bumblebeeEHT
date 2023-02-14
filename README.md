@@ -1,5 +1,5 @@
 # bumblebeeEHT
-code and data for spherical black holes in the bumblebee gravity model
+Example numerical solutions of spherical black holes in the bumblebee gravity model
 
 **********These three DAT files are examples of the numerical solutions**********
 
@@ -21,3 +21,7 @@ Coupling constant \xi = [0.8045, 1.811, 2.817]*8*\pi (as the names of the files 
 Mass of the solutions = [1.000, 1.000, 1.000] 
 
 Bumblebee charge of the solutions = [1.186, 2.986, 4.447]
+
+
+
+**********Code for calculating the solutions will be available after our current work is finished**********
