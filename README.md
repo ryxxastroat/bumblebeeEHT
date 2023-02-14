@@ -9,7 +9,7 @@ for reference.
 
 
 
-Units: Geometrized (G=c=1) and the radius of the horizon taken as the unit length
+**Units:** Geometrized (G=c=1) and the radius of the horizon taken as the unit length
 
 First column: raidal coordinate 
 
