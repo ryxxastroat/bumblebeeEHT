@@ -17,7 +17,7 @@ for reference.
 
 2. run bumblebeebh_plot.py to plot constraint diagram from EHT observation
 
-**********in the data file**********
+**********In the data file**********
 
 First column: bumblebee charge
 
