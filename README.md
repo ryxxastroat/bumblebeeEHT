@@ -1,6 +1,6 @@
-# bumblebeeEHT
+# Numerical code to calculate spherical black holes in the bumblebee gravity
 
-Example numerical solutions of spherical black holes in the bumblebee gravity model; please see
+Please see
 
 R. Xu, D. Liang, and L. Shao, _Bumblebee black holes in light of Event Horizon Telescope_, Astrophys. J. 945, 148 (2023)
 
