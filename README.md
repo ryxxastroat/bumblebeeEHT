@@ -9,25 +9,23 @@ for reference.
 
 
 
-**Units:** Geometrized (G=c=1) and the radius of the horizon taken as the unit length
+**Units:** Geometrized (G=c=1) and the mass of the black hole taken as the unit length
 
-First column: raidal coordinate 
+**Usage:**
 
-Second column: g_{tt}
+1. run bumblebeebh.nb to generate data (coupling constant can be set inside the notebook file)
 
-Third column: g_{rr}
+2. run bumblebeebh_plot.py to plot constraint diagram from EHT observation
 
-Fourth column: b_t
+**********in the data file**********
 
+First column: bumblebee charge
 
-**********specific parameters of each file**********
+Second column: radius of the horizon
 
-Coupling constant \xi = [0.8045, 1.811, 2.817]*8*\pi (as the names of the files suggest)
+Third column: radius of the photon ring
 
-Mass of the solutions = [1.000, 1.000, 1.000] 
-
-Bumblebee charge of the solutions = [1.186, 2.986, 4.447]
-
+Fourth column: radius of the black hole shadow
 
 
-**********Code for calculating the solutions will be available after our ongoing work is finished**********
+
