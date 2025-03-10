@@ -1,4 +1,5 @@
 # bumblebeeEHT
+
 Example numerical solutions of spherical black holes in the bumblebee gravity model; please see
 
 R. Xu, D. Liang, and L. Shao, _Bumblebee black holes in light of Event Horizon Telescope_, Astrophys. J. 945, 148 (2023)
@@ -26,6 +27,5 @@ Second column: radius of the horizon
 Third column: radius of the photon ring
 
 Fourth column: radius of the black hole shadow
-
 
 
